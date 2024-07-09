@@ -1,0 +1,1 @@
+echo %date% %time% >> C:\\1_data\\dev_logger.log
